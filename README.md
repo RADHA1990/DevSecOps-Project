@@ -1,4 +1,12 @@
-Radha
+Tasks:
+* T2.Large instance for jenkins, sonarqube,Trivy
+* setup jenkins CICD pipeline with security
+* Create the build (docker image) and push to dockerhub
+* T2.medium instance for monitoring the server
+* Enable monitoring for server and jenkins
+* EKS cluster for application deployment
+* Notification of email
+============================================================================================================================= 
 <div align="center">
   <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
 
